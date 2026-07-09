@@ -70,12 +70,12 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Bitget.png"
                   },
                   {
-                      "name":  "Bybit.eu",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Bybit.eu.png"
-                  },
-                  {
                       "name":  "Bybit",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Bybit.png"
+                  },
+                  {
+                      "name":  "Bybit.eu",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Bybit.eu.png"
                   },
                   {
                       "name":  "CEX.IO",
@@ -132,6 +132,10 @@
                   {
                       "name":  "Disney+",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Disney%2B.png"
+                  },
+                  {
+                      "name":  "DisrootMail",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/DisrootMail.png"
                   },
                   {
                       "name":  "Dropbox",
@@ -520,6 +524,10 @@
                   {
                       "name":  "Zopa",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Zopa.png"
+                  },
+                  {
+                      "name":  "哔哩哔哩",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.png"
                   }
               ]
 }
