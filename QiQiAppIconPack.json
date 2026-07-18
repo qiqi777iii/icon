@@ -1,6 +1,6 @@
 {
     "name":  "QiQiAppIconPack",
-    "description":  "QiQi icon pack, version 20260709.",
+    "description":  "QiQi icon pack, version 20260718.",
     "icons":  [
                   {
                       "name":  "AOLMail",
@@ -77,6 +77,10 @@
                   {
                       "name":  "Gmail",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Gmail.png"
+                  },
+                  {
+                      "name":  "Hanime1",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/icon/main/icon/Hanime1.png"
                   },
                   {
                       "name":  "Google",
